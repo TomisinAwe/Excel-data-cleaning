@@ -47,6 +47,8 @@ RESULT AND FINDING:  The analysis result are summarised as follows:
 
  * The company sales have been steadily increasing over the past year with a noticeable peak during the holiday season
  * product category A is the best performing category in terms of sales and revenue.
+
+   Recommendation
       
 
 
